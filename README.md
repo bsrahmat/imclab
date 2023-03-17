@@ -43,10 +43,13 @@ An example of a simple Arduino program to test this iMCLab kit, you can use the 
 
 https://github.com/bsrahmat/imclab/blob/main/01-Test_iMCLab.ino
 
+<br>
+</br>
+
 
 ## Example of test results:
 
-[![Watch the video](https://github.com/bsrahmat/smart_robots/blob/main/robot3a.jpg)](https://youtu.be/oXT61djHDEA)
+[![Watch the video](https://github.com/bsrahmat/imclab/blob/main/iMCLab_video1.jpg)](https://youtu.be/GkNOxcXFZ9w)
 
 
 <br>
