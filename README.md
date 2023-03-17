@@ -37,11 +37,14 @@ Just buy at Shopee:
 </br>
 
 
-## See examples of robot videos:
+## Simple iMCLab programming:
 
-[![Watch the video](https://github.com/bsrahmat/smart_robots/blob/main/robot2.jpg)](https://youtu.be/s7ptLZs9MbE)
+An example of a simple Arduino program to test this iMCLab kit, you can use the following coding:
 
-[![Watch the video](https://github.com/bsrahmat/smart_robots/blob/main/robot2a.jpg)](https://youtu.be/FO0yXKBMIRo)
+https://github.com/bsrahmat/imclab/blob/main/01-Test_iMCLab.ino
+
+
+## Example of test results:
 
 [![Watch the video](https://github.com/bsrahmat/smart_robots/blob/main/robot3a.jpg)](https://youtu.be/oXT61djHDEA)
 
