@@ -7,7 +7,7 @@
 <br>
 </br>
 
-iMCLab - PID-Based DC Motor Control Kit, Machine Learning and Internet of Things (IoT).
+## iMCLab - PID-Based DC Motor Control Kit, Machine Learning and Internet of Things (IoT).
 
 The kit is suitable for research, lecturers, students, teachers and students of Electronics-Informatics Vocational Schools.
 
