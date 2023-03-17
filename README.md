@@ -1,5 +1,12 @@
 # iMCLab - Internet-Based Motor Control Lab.
 
+<p align="center">
+  <img src="https://github.com/bsrahmat/imclab/blob/main/iMCLab1.jpg" alt="" class="img-responsive" width="700">
+</p>
+
+<br>
+</br>
+
 iMCLab - PID-Based DC Motor Control Kit, Machine Learning and Internet of Things (IoT).
 
 The kit is suitable for research, lecturers, students, teachers and students of Electronics-Informatics Vocational Schools.
@@ -21,14 +28,14 @@ iMCLab Smart Kits can be used for:
 
 Just buy at Shopee:
 
-
-
 <p align="center">
-  <img src="https://github.com/bsrahmat/smart_robots/blob/main/robot1.jpg" alt="" class="img-responsive" width="700">
+<a href="https://shopee.co.id/product/78709625/22732426716/" target="_blank"><img src="https://github.com/bsrahmat/imclab/blob/main/iMCLab_Shopee.jpg" alt="" class="img-responsive" width="700">
+</a>
 </p>
 
 <br>
 </br>
+
 
 ## See examples of robot videos:
 
