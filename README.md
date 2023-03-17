@@ -5,19 +5,22 @@ iMCLab - PID-Based DC Motor Control Kit, Machine Learning and Internet of Things
 The kit is suitable for research, lecturers, students, teachers and students of Electronics-Informatics Vocational Schools.
 
 iMCLab Smart Kits can be used for:
-- Learn Microcontroller Programming Practice
-- Learn Internet of Things (IoT)
-- Learn System Dynamics
-- Learning DC Motor Control or General Control Systems
-- Learning Machine Learning and Artificial Intelligence
-- Learn Arduino and Python Programming Languages
-- Learn System Identification
-- Study Research or Research
-- Study Product-Based Entrepreneurship Research Results
+- Microcontroller Programming Practice
+- Internet of Things (IoT) Programming
+- System Dynamics
+- DC Motor Control or General Control Systems
+- Machine Learning and Artificial Intelligence Programming
+- Arduino and Python Programming
+- System Identification
 - And others
 
 <br>
 </br>
+
+# How to get this kit?
+
+Just buy at Shopee:
+
 
 
 <p align="center">
